@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.exe
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.deps.json
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.runtimeconfig.json
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.runtimeconfig.dev.json
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.dll
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\bin\Debug\netcoreapp3.1\AMoutousis_Deliverable1.pdb
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.AssemblyInfo.cs
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.dll
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.pdb
+C:\Users\andon\source\repos\AMoutousis_Deliverable1\AMoutousis_Deliverable1\obj\Debug\netcoreapp3.1\AMoutousis_Deliverable1.genruntimeconfig.cache
